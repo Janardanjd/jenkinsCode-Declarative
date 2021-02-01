@@ -1,0 +1,2 @@
+# jenkinsCode-Declarative
+jenkins pipeline
